@@ -1,0 +1,55 @@
+body {
+    background-color: #60C3EF;
+}
+
+
+.txtmove {
+    text-align: center;
+}
+
+.font1 {
+    font-family: Orbitron, sans-serif;
+    color: blueviolet; 
+}
+
+.txtsize {
+    font-family: Orbitron, sans-serif;
+    font-size: 45;
+    color:blueviolet;
+}
+
+a:hover {
+    color: red;
+    
+}
+
+.listadjust {
+    padding: 7px;
+    margin-left: 750px;
+    margin-bottom: 115px;
+    margin-top: -170px;
+    margin-right: 50px;
+    border: solid;
+    border-width: 3px;
+    border-color: blueviolet;
+    text-align: center;
+
+}
+
+.otherlistadjust {
+    padding: 10px;
+    margin-left: 125px;
+    margin-right: 750px;
+    border: solid;
+    border-width: 3px;
+    border-color: blueviolet;
+    text-align: center;
+    
+}
+
+.ptext {
+    text-align: center;
+    font-family: Orbitron, sans-serif;
+    font-size: 45;
+}
+
